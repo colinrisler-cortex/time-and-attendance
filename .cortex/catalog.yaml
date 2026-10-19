@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "time-and-attendance"
+  x-cortex-tag: "time-and-attendance"
+  x-cortex-description: "Timeclock, punch data collection, and scheduling"
+  x-cortex-owners:
+    - type: group
+      name: "Enterprise Applications Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001505"
+    apm_name: "HR & Workforce Management System"
+    cost_center: "CC-4520"
